@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+![Capture d’écran 2024-06-07 010235](https://github.com/meriemhela/checkpointReactJs/assets/95054117/0d0ce81e-505b-42eb-8cbb-0af4b7ad6370)
 ## Available Scripts
 
 In the project directory, you can run:
